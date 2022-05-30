@@ -5,6 +5,7 @@ There are three different users (Admin, Student and Teacher) in this system. Adm
 We have use CRUD Rest APIs for the communication between frontend and backend. User can easily access their data from database from frontend.
 
 Objectives:
+
 Basic Requirements:
 Web application needs database for storing data, backend for processing the data, then a web service application programming interface for providing the data and a frontend for displaying the data.
 
